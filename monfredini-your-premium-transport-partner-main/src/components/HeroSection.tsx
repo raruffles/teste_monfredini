@@ -30,15 +30,15 @@ const HeroSection = () => {
         >
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-primary/30 bg-primary/10 mb-6">
             <span className="w-2 h-2 rounded-full bg-primary animate-pulse-glow" />
-            <span className="text-xs font-medium text-primary">+20 anos de excelência</span>
+            <span className="text-xs font-medium text-primary">+30 anos de excelência</span>
           </div>
 
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-heading font-extrabold leading-[0.95] mb-6">
             <span className="text-gradient-chrome">Transporte</span>
             <br />
-            <span className="text-foreground">com precisão</span>
+            <span className="text-foreground">com segurança</span>
             <br />
-            <span className="text-primary">e confiança.</span>
+            <span className="text-primary">e credibilidade.</span>
           </h1>
 
           <p className="text-muted-foreground text-lg md:text-xl max-w-lg mb-10 leading-relaxed">

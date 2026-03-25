@@ -8,7 +8,7 @@ const Footer = () => (
         <div>
           <img src={logo} alt="Monfredini Transportes" className="h-14 w-auto mb-5" />
           <p className="text-sm text-muted-foreground leading-relaxed max-w-xs">
-            Logística inteligente e confiável para seu negócio. +20 anos movendo o Brasil.
+              Logística inteligente e confiável para seu negócio. +30 anos movendo o Brasil.
           </p>
         </div>
 

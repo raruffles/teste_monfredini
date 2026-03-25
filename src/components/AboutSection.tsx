@@ -19,7 +19,7 @@ const AboutSection = () => (
         >
           <span className="text-primary text-sm font-semibold uppercase tracking-widest">Sobre nós</span>
           <h2 className="text-3xl md:text-5xl font-heading font-extrabold text-foreground mt-3 mb-6">
-            +20 anos construindo <span className="text-gradient-chrome">confiança</span>
+            +30 anos de <span className="text-gradient-chrome">segurança e credibilidade</span>
           </h2>
           <p className="text-muted-foreground leading-relaxed mb-6">
             A Monfredini Transportes é referência em logística rodoviária no Brasil. 
@@ -50,7 +50,7 @@ const AboutSection = () => (
           <div className="bg-gradient-card border border-border rounded-2xl p-7 sm:p-10 text-center">
             <Award size={48} className="mx-auto text-primary mb-6" />
             <div className="text-6xl md:text-7xl font-heading font-extrabold text-foreground mb-2">
-              20<span className="text-primary">+</span>
+              30<span className="text-primary">+</span>
             </div>
             <p className="text-muted-foreground text-lg">Anos no mercado</p>
             <div className="mt-8 pt-8 border-t border-border grid grid-cols-2 gap-6">

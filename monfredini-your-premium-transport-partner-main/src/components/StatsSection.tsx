@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { TrendingUp, Truck, MapPin, Users } from "lucide-react";
 
 const stats = [
-  { icon: TrendingUp, value: "20+", label: "Anos de Mercado", suffix: "" },
+  { icon: TrendingUp, value: "30+", label: "Anos de Mercado", suffix: "" },
   { icon: Truck, value: "150k", label: "Entregas/Mês", suffix: "+" },
   { icon: MapPin, value: "500k", label: "Km Rodados/Mês", suffix: "+" },
   { icon: Users, value: "2.000", label: "Clientes Ativos", suffix: "+" },
