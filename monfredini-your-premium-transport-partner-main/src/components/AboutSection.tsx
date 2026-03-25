@@ -55,11 +55,11 @@ const AboutSection = () => (
             <p className="text-muted-foreground text-lg">Anos no mercado</p>
             <div className="mt-8 pt-8 border-t border-border grid grid-cols-2 gap-6">
               <div>
-                <div className="text-2xl font-heading font-bold text-foreground">98%</div>
+                <div className="text-2xl font-heading font-bold text-foreground">+98%</div>
                 <div className="text-xs text-muted-foreground mt-1">Satisfação dos clientes</div>
               </div>
               <div>
-                <div className="text-2xl font-heading font-bold text-foreground">99.2%</div>
+                <div className="text-2xl font-heading font-bold text-foreground">+99%</div>
                 <div className="text-xs text-muted-foreground mt-1">Entregas no prazo</div>
               </div>
             </div>
